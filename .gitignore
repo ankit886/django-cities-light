@@ -1,0 +1,16 @@
+.Python
+*.pyc
+*.orig
+.cache/
+*,cover
+.coverage
+.tox/
+.idea/
+*.sqlite
+
+*.egg-info
+build/
+dist/
+
+# Ignore the downloaded data.
+cities_light/data/
